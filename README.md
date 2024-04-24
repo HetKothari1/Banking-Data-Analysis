@@ -1,9 +1,9 @@
 # Banking-Data-Analysis
 
-## Project Overview
+### Project Overview
 This data analysis project aims to provide key insights into the Czech Financial Banking data. The goal is to understand their client demographics and performance metrics across districts, as well as in managing its loan portfolio and expenses efficiently to improve profitability.
 
-##Approach
+## Approach
 
 Demographic Profile Analysis: Utilize client and demographic data to analyze the bank's client demographics and variations across districts, identifying trends and patterns.
 Performance Analysis: Analyze transaction data to evaluate the bank's performance over the years on a year and month-wise basis, providing detailed insights into its financial performance.
