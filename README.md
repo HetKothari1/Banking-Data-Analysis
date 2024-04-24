@@ -37,7 +37,11 @@ Loan Portfolio Analysis: Used loan data to analyze the bank's loan portfolio, in
 
 ## Results
 -The analysis provides a detailed understanding of client demographics, highlighting district-wise variations and trends.
+
 -Insights into financial performance over time offer valuable strategic direction for the bank.
+
 -Examination of account and card usage patterns identifies opportunities for service enhancement and product development.
+
 -Identification of major expenses opens avenues for cost reduction and improved profitability.
+
 -Analysis of the loan portfolio sheds light on lending patterns and client segments, enabling targeted marketing and risk management strategies.
