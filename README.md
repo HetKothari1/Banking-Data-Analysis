@@ -5,12 +5,19 @@ This data analysis project aims to provide key insights into the Czech Financial
 
 ## Data Sources
 accounts.csv - each record describes static characteristics of an account,
+
 clients.csv  - each record describes characteristics of a client,
+
 disp.csv - each record relates together a client with an account i.e. this relation describes the rights of clients to operate accounts,
+
 order.csv - each record describes characteristics of a payment order,
+
 transaction.csv - each record describes one transaction on an account,
+
 loan.csv  - each record describes a loan granted for a given account,
+
 card.csv  - each record describes a credit card issued to an account,
+
 district.csv - each record describes demographic characteristics of a district.
 
 ## Approach
