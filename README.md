@@ -20,6 +20,10 @@ card.csv  - each record describes a credit card issued to an account,
 
 district.csv - each record describes demographic characteristics of a district.
 
+## Tools
+Excel - Data cleaning
+SQL - Data analysis
+
 ## Approach
 Demographic Profile Analysis: Utilized client and demographic data to analyze the bank's client demographics and variations across districts, identifying trends and patterns.
 
@@ -31,7 +35,9 @@ Expense Analysis: Identify major expenses of the bank through transaction data a
 
 Loan Portfolio Analysis: Used loan data to analyze the bank's loan portfolio, including purposes and client segments, to understand variations and optimize offerings.
 
-## Conclusion
-
-The project provides valuable insights into client demographics, district-wise variations, financial performance, account and card usage, expenses, and loan portfolio.
-Recommendations are made to improve customer service, enhance digital services, streamline processes, and optimize offerings for better profitability.
+## Results
+-The analysis provides a detailed understanding of client demographics, highlighting district-wise variations and trends.
+-Insights into financial performance over time offer valuable strategic direction for the bank.
+-Examination of account and card usage patterns identifies opportunities for service enhancement and product development.
+-Identification of major expenses opens avenues for cost reduction and improved profitability.
+-Analysis of the loan portfolio sheds light on lending patterns and client segments, enabling targeted marketing and risk management strategies.
