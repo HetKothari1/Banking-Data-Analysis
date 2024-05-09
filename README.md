@@ -1,6 +1,6 @@
 # Banking-Data-Analysis
 
-### Project Overview
+## Project Overview
 This data analysis project aims to provide key insights into the Czech Financial Banking data. The goal is to understand their client demographics and performance metrics across districts, as well as in managing its loan portfolio and expenses efficiently to improve profitability.
 
 ![SQL](https://github.com/HetKothari1/Banking-Data-Analysis/assets/167286650/758e2ac9-6d29-40ac-adac-8bae4159a407)
