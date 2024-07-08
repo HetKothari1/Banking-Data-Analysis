@@ -24,6 +24,7 @@ district.csv - each record describes demographic characteristics of a district.
 
 ## Tools
 Excel - Data cleaning
+
 SQL - Data analysis
 
 ## Approach
